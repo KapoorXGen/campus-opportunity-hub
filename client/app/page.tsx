@@ -26,13 +26,6 @@ export default function HomePage() {
             </Link>
 
             <Link
-              href="/dashboard"
-              className="text-sm font-medium text-slate-500 transition hover:text-slate-900"
-            >
-              Dashboard
-            </Link>
-
-            <Link
               href="/login"
               className="text-sm font-medium text-slate-600 transition hover:text-slate-900"
             >
