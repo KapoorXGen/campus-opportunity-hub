@@ -7,6 +7,7 @@ Campus Opportunity Hub helps students discover internships, hackathons, scholars
 ---
 
 ## Live Application
+https://campus-opportunity-hub-tn75.vercel.app/
 
 **Frontend:**  
 https://campus-opportunity-hub-tn75.vercel.app
